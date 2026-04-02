@@ -1,67 +1,58 @@
-# 📊 Projetos - Estrutura de Dados
-
-Este repositório reúne atividades, exercícios e projetos desenvolvidos durante a disciplina de **Estrutura de Dados**.
-
-O objetivo é compreender e aplicar diferentes formas de organização e manipulação de dados, desenvolvendo soluções mais eficientes para problemas computacionais utilizando **Java**.
+Com base nos documentos fornecidos, aqui está a proposta de README para o seu projeto **ESTRUTURA_DE_DADOS**, estruturada conforme o "Corpo de base" e finalizada com a sua "Assinatura":
 
 ---
 
-## 📚 Conteúdos Estudados
+### 🚀 Projeto - ESTRUTURA_DE_DADOS
 
-Durante a disciplina são abordados conceitos importantes da área de **Estruturas de Dados**, como:
+#### 📌 Sobre o Projeto
+Este projeto foi desenvolvido com o objetivo de **implementar e praticar conceitos fundamentais de Estruturas de Dados, como listas, pilhas, filas e algoritmos de ordenação**. 
+A aplicação foi construída utilizando boas práticas de desenvolvimento, com foco em **organização, performance e experiência do usuário**.
 
-* Conceitos fundamentais de **Estrutura de Dados**
-* **Tipos de dados abstratos (TAD)**
-* **Vetores (Arrays)**
-* **Matrizes**
-* **Listas**
-* **Pilhas (Stacks)**
-* **Filas (Queues)**
-* Algoritmos de **busca**
-* Algoritmos de **ordenação**
-* Manipulação e organização eficiente de dados
+--------------------------------------------------------------------------------
 
----
+#### 🧠 Funcionalidades
+*  ✅ Implementação de estruturas lineares (Listas, Pilhas e Filas)
+*  ✅ Algoritmos de busca e ordenação de dados
+*  ✅ Manipulação eficiente de coleções
+*  ✅ Organização lógica e modular do código
 
-## 🗂 Estrutura do Repositório
+--------------------------------------------------------------------------------
 
-O repositório pode conter:
+#### 🛠️ Tecnologias Utilizadas
+*   **Linguagem:** Java (conforme a estrutura comum de projetos de E.D.)
+*   **Ambiente:** IDE de desenvolvimento (VS Code / IntelliJ / Eclipse)
+*   **Conceitos:** Lógica de programação e POO
 
-* Exercícios práticos da disciplina
-* Implementações de estruturas de dados
-* Algoritmos de busca e ordenação
-* Projetos desenvolvidos em aula
-* Atividades avaliativas
+--------------------------------------------------------------------------------
 
-Cada pasta representa um conteúdo, exercício ou atividade específica da disciplina.
+#### 📂 Estrutura do Projeto
+O repositório está organizado para facilitar o estudo individual de cada estrutura de dados e a aplicação de algoritmos específicos.
 
----
+--------------------------------------------------------------------------------
 
-## 🛠 Tecnologias Utilizadas
+#### ⚙️ Como Executar o Projeto
+1. Clone ou baixe este repositório
+2. Configure o ambiente (certifique-se de ter o JDK instalado)
+3. Execute as classes principais ou testes localmente
 
-* **Java**
-* **JDK**
-* **VS Code / IDE Java**
+--------------------------------------------------------------------------------
 
----
+#### 🎯 Objetivo
+Este projeto foi desenvolvido para fins de **aprendizado e prática**, aplicando conceitos como:
+*  Estruturação de sistemas
+*  Lógica de algoritmos avançada
+*  Boas práticas de programação
 
-## 🎯 Objetivo do Repositório
+--------------------------------------------------------------------------------
 
-* Praticar conceitos de **Estrutura de Dados**
-* Desenvolver raciocínio lógico e algorítmico
-* Aprender diferentes formas de organização de dados
-* Registrar a evolução acadêmica na área de programação
-
----
-
-## 👨‍💻 Autor
+### 👨‍💻 Autor
 
 **Pedro Afonso Paulina Ataide**
 
-🎓 Estudante de **Informática para Negócios - FATEC Rio Preto**
+🎓 Estudante de Informática para Negócios - FATEC Rio Preto
 
-💻 Interessado em **Desenvolvimento, Dados e Tecnologia**
+🎓 Técnico em Informática - Senac Rio Preto
 
----
+💻 Interessado em Desenvolvimento, Dados e Tecnologia
 
 ⭐ Este repositório faz parte do meu processo de aprendizado na área de programação e ciência de dados.
