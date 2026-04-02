@@ -1,7 +1,3 @@
-Com base nos documentos fornecidos, aqui está a proposta de README para o seu projeto **ESTRUTURA_DE_DADOS**, estruturada conforme o "Corpo de base" e finalizada com a sua "Assinatura":
-
----
-
 ### 🚀 Projeto - ESTRUTURA_DE_DADOS
 
 #### 📌 Sobre o Projeto
