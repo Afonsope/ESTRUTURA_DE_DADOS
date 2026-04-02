@@ -1,54 +1,64 @@
-### 🚀 Projeto - ESTRUTURA_DE_DADOS
+# 🚀 Projeto - ESTRUTURA_DE_DADOS
 
-#### 📌 Sobre o Projeto
-Este projeto foi desenvolvido com o objetivo de **implementar e praticar conceitos fundamentais de Estruturas de Dados, como listas, pilhas, filas e algoritmos de ordenação**. 
-A aplicação foi construída utilizando boas práticas de desenvolvimento, com foco em **organização, performance e experiência do usuário**.
+## 📌 Sobre o Projeto
 
---------------------------------------------------------------------------------
+Este repositório foi desenvolvido com o objetivo de armazenar e organizar **exercícios e implementações da disciplina de Estrutura de Dados**, abordando conceitos fundamentais da programação.
 
-#### 🧠 Funcionalidades
-*  ✅ Implementação de estruturas lineares (Listas, Pilhas e Filas)
-*  ✅ Algoritmos de busca e ordenação de dados
-*  ✅ Manipulação eficiente de coleções
-*  ✅ Organização lógica e modular do código
+O projeto tem foco educacional, servindo como apoio para estudos e prática, explorando estruturas essenciais como listas, pilhas e filas — que são a base para construção de sistemas eficientes ([Do Your Code][1]).
 
---------------------------------------------------------------------------------
+---
 
-#### 🛠️ Tecnologias Utilizadas
-*   **Linguagem:** Java (conforme a estrutura comum de projetos de E.D.)
-*   **Ambiente:** IDE de desenvolvimento (VS Code / IntelliJ / Eclipse)
-*   **Conceitos:** Lógica de programação e POO
+## 🧠 Funcionalidades
 
---------------------------------------------------------------------------------
+✅ Implementação de estruturas de dados básicas
+✅ Exercícios práticos da disciplina
+✅ Organização de códigos para estudo e revisão
+✅ Aplicação de lógica de programação
 
-#### 📂 Estrutura do Projeto
-O repositório está organizado para facilitar o estudo individual de cada estrutura de dados e a aplicação de algoritmos específicos.
+---
 
---------------------------------------------------------------------------------
+## 🛠️ Tecnologias Utilizadas
 
-#### ⚙️ Como Executar o Projeto
+**Linguagem:** Java
+**Paradigma:** Programação Orientada a Objetos
+**Outros:** Lógica de Programação, Algoritmos
+
+---
+
+## 📂 Estrutura do Projeto
+
+```
+/src
+  /estruturas
+  /exercicios
+  /testes
+Main.java
+```
+
+---
+
+## ⚙️ Como Executar o Projeto
+
 1. Clone ou baixe este repositório
-2. Configure o ambiente (certifique-se de ter o JDK instalado)
-3. Execute as classes principais ou testes localmente
+2. Abra o projeto em uma IDE (IntelliJ, Eclipse ou VS Code)
+3. Execute a classe principal (`Main.java`)
 
---------------------------------------------------------------------------------
+---
 
-#### 🎯 Objetivo
-Este projeto foi desenvolvido para fins de **aprendizado e prática**, aplicando conceitos como:
-*  Estruturação de sistemas
-*  Lógica de algoritmos avançada
-*  Boas práticas de programação
+## 🎯 Objetivo
 
---------------------------------------------------------------------------------
+Este projeto foi desenvolvido para fins de aprendizado e prática, aplicando conceitos como:
 
-### 👨‍💻 Autor
+* Estruturas de dados (listas, pilhas, filas)
+* Organização de código
+* Lógica e resolução de problemas
+* Fundamentos essenciais da computação
+
+---
+
+## 👨‍💻 Autor
 
 **Pedro Afonso Paulina Ataide**
-
 🎓 Estudante de Informática para Negócios - FATEC Rio Preto
-
 🎓 Técnico em Informática - Senac Rio Preto
-
 💻 Interessado em Desenvolvimento, Dados e Tecnologia
-
-⭐ Este repositório faz parte do meu processo de aprendizado na área de programação e ciência de dados.
